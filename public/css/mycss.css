@@ -1,0 +1,14 @@
+/* Moj css  */
+.sub-menu {
+    float: left;
+    display: block;
+    text-align: center;
+    margin-left: 100px;
+
+  }
+
+  .sub-menu .menu-title {
+    display: block;
+    margin-top: 20px;
+   }
+/* Kraj */
